@@ -57,9 +57,6 @@ function removeHeap(heap){
     }
     return maxValue
 }
-
-
-
 const arr=[12,65,2,5,7,23,76]
 
 
