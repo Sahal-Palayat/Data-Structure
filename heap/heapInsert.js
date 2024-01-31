@@ -59,8 +59,6 @@ function removeHeap(heap){
 }
 const arr=[12,65,2,5,7,23,76]
 
-
-
 removeHeap(buildMaxHeap(arr))
 console.log(arr);
 
